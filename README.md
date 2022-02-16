@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KuroiUsagi
+- 👋 Hi, I’m Vitalii Povoroznyk
 - 👀 I’m interested in computer games and web development
 - 🌱 I’m currently learning Python Django, databases
 - 💞️ I’m looking to collaborate on any project which you think I could xD
