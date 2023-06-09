@@ -8,7 +8,7 @@ Skills:
 - Django
 - DRF
 - Celery
-- SQl [PostgreSQL, MySQL]
+- SQL [PostgreSQL, MySQL]
 - Wagtail
 - HTMl, CSS, JS [basics only]
 <!---
