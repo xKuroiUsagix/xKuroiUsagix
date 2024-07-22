@@ -1,14 +1,16 @@
-- Hi, I’m Vitalii, but I prefer being referenced as kodo
-- I’m interested in computer games and web development
-- I’m Python Django web-developer with a bit of experience in real projects.
+## About Me
+- Hi, I’m Vitalii, but people often call me _kodo_
+- I’m interested in computer games, resistance training and web development
+- I’m Python web-developer with a bit of experience in real projects.
 - I’m open for any project written in Python
 
-Skills:
+## Skills
 - Python
-- Django
-- DRF
-- Celery
+- Django, DRF
+- Redis, Celery
 - SQL [PostgreSQL, MySQL]
+- AWS S3
+- Docker
 - Wagtail
 - HTMl, CSS, JS [basics only]
 <!---
