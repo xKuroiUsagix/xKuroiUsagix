@@ -1,5 +1,5 @@
 ## About Me
-- Hi, I’m Vitalii, but people often call me _kodo_
+- Hi, I’m Vitalii 23 y.o., people often call me _kodo_
 - I’m interested in computer games, resistance training and web development
 - I’m Python web-developer with a bit of experience in real projects.
 - I’m open for any project written in Python
