@@ -8,12 +8,13 @@
 - Python
 - FastAPI
 - Django, DRF
-- Redis, Celery
+- Redis
+- Celery
 - SQL [PostgreSQL, MySQL]
 - AWS S3
-- Docker
+- Docker, Docker-Compose
 - HTML, CSS, JS [basics only]
-<!---
-xKuroiUsagix/xKuroiUsagix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Things I am Familiar with (eaither know some basics or had some decent knowdlege back in the days)
+- C++
+- Go
