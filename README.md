@@ -15,6 +15,6 @@
 - Docker, Docker-Compose
 - HTML, CSS, JS [basics only]
 
-## Things I am Familiar with (either know some basics or had some decent knowdlege back in the days)
+## Things I am Familiar with (either know some basics or had some decent knowledge back in the days)
 - C++
 - Go
